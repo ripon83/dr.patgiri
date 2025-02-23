@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Ripon Patgiri"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor, Department of Computer Science & Engineering"
+  location         : "Assam, India"
+  employer         : "National Institute of Technology Silchar"
   uri              : # URL
   email            : "ripon@cse.nits.ac.in" 
 
